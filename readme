@@ -1,0 +1,7 @@
+//CRUD API using Node Js.
+
+//import express from express NPM Module
+
+//Also import body-parser and dotenv modules
+
+//For Schema, import mongoose module to create model method
